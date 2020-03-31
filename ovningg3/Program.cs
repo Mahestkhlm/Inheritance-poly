@@ -119,7 +119,7 @@ namespace ovningg3
             {
                 new NumericInputError(),
                 new TextInputError(),
-                new ValidateNumberError(-1,2),
+                new ValidateNumberError(),
                 new TextError(),
             };
                 // Print all UserErrors UEMessage () through a foreach loop.
